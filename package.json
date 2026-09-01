@@ -1,0 +1,26 @@
+{
+  "name": "ai-industrial-visual-inspection-qms",
+  "version": "1.0.0",
+  "description": "AI-Powered Industrial Visual Inspection and Quality Management System for Azure App Service",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "ai",
+    "computer-vision",
+    "quality-management",
+    "industry-4.0",
+    "six-sigma",
+    "spc",
+    "azure-app-service"
+  ],
+  "author": "Industrial AI Systems",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "multer": "^1.4.5-lts.1"
+  }
+}
